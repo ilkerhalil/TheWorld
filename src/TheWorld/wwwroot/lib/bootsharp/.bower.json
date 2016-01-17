@@ -1,0 +1,45 @@
+{
+  "name": "bootsharp",
+  "version": "0.3.6",
+  "main": [
+    "less/bootsharp.less",
+    "dist/css/bootsharp.css",
+    "dist/js/bootsharp.js",
+    "dist/fonts/glyphicons/bootsharp-icons-regular.eot",
+    "dist/fonts/glyphicons/bootsharp-icons-regular.svg",
+    "dist/fonts/glyphicons/bootsharp-icons-regular.ttf",
+    "dist/fonts/glyphicons/bootsharp-icons-regular.woff"
+  ],
+  "ignore": [
+    ".*"
+  ],
+  "devDependencies": {
+    "jquery": "~1.11.1",
+    "jquery-ui": "~1.10.4",
+    "bootstrap": "~3.2.0",
+    "bootstrap-switch": "~3.0.2",
+    "holderjs": "~2.4.0",
+    "html5shiv": "~3.7.2",
+    "jquery-ui-touch-punch": "*",
+    "respond": "~1.4.2",
+    "typeahead.js": "~0.10.5",
+    "google-code-prettify": "~1.0.3",
+    "select2": "~3.5.1"
+  },
+  "dependencies": {
+    "videojs": "~4.7.2"
+  },
+  "resolutions": {
+    "jquery": "~1.11.1"
+  },
+  "homepage": "https://github.com/SSLcom/Bootsharp",
+  "_release": "0.3.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.6",
+    "commit": "f8a73d78ba88f0edf6da953395215656ce305c50"
+  },
+  "_source": "git://github.com/SSLcom/Bootsharp.git",
+  "_target": "~0.3.6",
+  "_originalSource": "bootsharp"
+}

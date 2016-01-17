@@ -1,0 +1,9 @@
+﻿{
+  "AppSettings": {
+    "BingMapKey": "AsVSHH0xc-ZCgjCB4XbT56H7tJ0LvuUn_Bkmm0dPBxr1jtxk4vZ-LyRReqHA3tch",
+    "SiteEmailAddress": "bilgi@ilkerturer.com"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=(localdb)\\ProjectsV12;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
